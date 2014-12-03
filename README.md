@@ -16,7 +16,7 @@ Note: follow the path in `README.txt` and run `Platformer.exe`.  You may be prom
 
 Note: You may need to change your settings to allow for unsigned applications to be run.  Follow this link for more information: http://www.imore.com/how-open-apps-unidentified-developer-os-x-mountain-lion
 
-####Tutorial
+####Gameplay Tutorial
 
     Left & Right Arrow Keys = move left and right
     Up Arrow & Space = Jump
