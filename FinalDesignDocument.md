@@ -45,7 +45,7 @@ We ultimately decided against implementing climbing and swimming due to the avai
 - **character can attack with special abilities**  
 We decided against implementing this for similar reasons as why we did not choose to implement climbing or swimming - the functionality and game logic would be extremely similar to the attack ability we already have implemented, but it would require more assets for the ability animations.
 
-- ** crouching **  
+- **crouching**  
 We did not implement crouching in the game because it would require more distinct assets.
 
 - **certain menu functionalities**  
