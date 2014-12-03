@@ -2,6 +2,17 @@
 ###A CS220 Project | A Platformer Adventure Game
 ####Creators
 Adam Wyeth, John Salem, Betty Liu, Tejong Lim, David Huang, Steven Garcia, Melinda Chou, Max Chen
+
+####Packaged Executables
+* Download and unzip the appropriate file from below
+* Follow the path in the README.txt file and run the executable
+
+#####Windows
+https://drive.google.com/file/d/0BynCaVGzyiNobjNfNWdzLUFQQ0E/view?usp=sharing
+
+#####Mac
+asdfasdfasdfasdf
+
 ####Tutorial
 
     Left & Right Arrow Keys = move left and right
