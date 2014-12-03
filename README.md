@@ -3,6 +3,9 @@
 ####Creators
 Adam Wyeth, John Salem, Betty Liu, Tejong Lim, David Huang, Steven Garcia, Melinda Chou, Max Chen
 
+####Description
+Smooth Dirt is a two-dimensional platformer game written in C++ with Unreal Engine 4.5.1. The player controls a knight and must defeat various monsters and navigate through the level in order to eventually slay a dragon and obtain the star. Smooth Dirt is a game meant for users of all ages to enjoy.
+
 ####Packaged Executables
 * Download and unzip the appropriate file from below
 
