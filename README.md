@@ -37,6 +37,6 @@ You will be able to play the game, kill enemies, pick up HP potions, pick up sta
 
 
 ####Checkpoint of Source Code
-A snapshot of our source code can be found here: [Checkpoint](https://drive.google.com/folderview?id=0Bwf1H0Z5oTjqdG1LaXh3bzZrdHc&usp=sharing)
+A snapshot of our source code can be found either in this repository [here](https://github.com/moniker001/Smooth-Dirt/tree/master/Platformer/Source/Platformer) or in our Google Drive directory [here](https://drive.google.com/folderview?id=0Bwf1H0Z5oTjqdG1LaXh3bzZrdHc&usp=sharing).
 
 To view the C++ code, go to Platformer -> Source -> Platformer.
