@@ -37,7 +37,7 @@ Instead of items you have to equip and use from a menu, we decided to have items
 - **save and load game**  
 Opening the game executable will start a new game by default. The game will automatically save the player's information (level, experience, etc) and location every time the player reaches the next level as a checkpoint. Only one save file is stored at a time and the player can load this save file by accessing the menu and selecting the "Load Last Save" option. The player may also restart the game by selecting "New Game, which will transport the player to the starting position and replace their information with the basic starting information.
 
-##### Functionality that is Proposed and Not Implemented
+### Functionality that is Proposed and Not Implemented
 
 - **character can climb ladders / swim**  
 We ultimately decided against implementing climbing and swimming due to the available amount of time versus the amount of animation assets we would have to create for these simple movement options, e.g. for implementing climbing alone would require new animation graphics for getting on a ladder, getting off a ladder, and climbing itself, that couldn't simply be derived from the animation assets we already have for the player character. We decided to prioritize programming the logic of the game instead of working on assets, so we removed climbing and swimming from the goal of the iteration.
