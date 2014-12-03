@@ -45,6 +45,9 @@ We ultimately decided against implementing climbing and swimming due to the avai
 - **character can attack with special abilities**  
 We decided against implementing this for similar reasons as why we did not choose to implement climbing or swimming - the functionality and game logic would be extremely similar to the attack ability we already have implemented, but it would require more assets for the ability animations.
 
+- ** crouching **  
+We did not implement crouching in the game because it would require more distinct assets.
+
 - **certain menu functionalities**  
 There are certain menu functionalities that we did not implement: difficulty settings, game options (such as volume and brightness), overwrite warning. We did not implement difficulty settings because we ultimately decided to make an extremely difficult game. Furthermore, having different difficulty settings in our particular platformer would simply be adjusting certain damage numbers that enemies inflict on the character, which is fairly trivial. Game options were left out because of time constraints, we thought time would be better used in actually implementing the game versus on something that doesn't affect actual gameplay. Finally, we didn't implement an "overwrite" warning because our game ended up being more platformer, where the game state is less important to save than in something like an RPG, where you have more stats to keep track of, location to save, items, etc.
 
