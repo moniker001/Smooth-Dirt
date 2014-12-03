@@ -1,6 +1,7 @@
 #Smooth-Dirt
 ###A CS220 Project | A Platformer Adventure Game
-
+####Creators
+Adam Wyeth, John Salem, Betty Liu, Tejong Lim, David Huang, Steven Garcia, Melinda Chou, Max Chen
 ####Tutorial
 
     Left & Right Arrow Keys = move left and right
