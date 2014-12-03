@@ -58,4 +58,14 @@ We decided to implement different types of monsters to make the game more intere
 
 ### Lessons
 
+- **Basic game & object-oriented design concepts**  
+First, we learned about important game programming patterns such as the Flyweight, State and Double Buffer models, and how they can be implemented in code. This was also an exercise in our knowledge of object-oriented programming and the benefits of using techniques like inheritance and polymorphism. Second, we learned about the different lower-level moving parts that go into a game, such as physics, graphics & assets, and handling user input, and how they all go together in code.
 
+- **Programming skills**
+We learned how to implement much of the above in C++ and also gained experience in working with an industry-standard game engine (Unreal), as well as the nuances that go into working with code developed by someone else. We also learned to use different IDEs (depending on the type of computer and setup each team member had) such as Xcode and Visual Studio. We also worked heavily with Github and became familiar with using it as our version control software. Finally, we learned how to implement object-oriented programming patterns in C++.
+
+- **Team organization**
+We learned about the different aspects that go into working as a team on a single long-term project. We learned how to use version control systems to manage several people working on a single project at once, and how to synchronize changes each person made, and also how to manage people working in different coding environments while still allowing everyone to test and compile the same code. We also learned about dividing up work and assigning particular assignments based on each team member's strengths.
+
+- **Asset management**
+We learned how to create assets and graphics for games using software like Adoboe Photoshop & Flash, and also how graphics are rendered and collision is created in a game engine like Unreal.
